@@ -1,7 +1,7 @@
 # Product:
 
 ## User Story
-"As a (*type of person*), I want (*a goal*) so that (*a reason*)."
+"As a (*Web Designer*), I want (*to make a soundboard*) so that (*aspiring comedians can have a form of artificial reassurance when telling jokes*)."
 
 ## Feature Backlog (by Priority)
 - [ ] Feature 1
