@@ -1,13 +1,13 @@
 # Product:
 
 ## User Story
-"As a (*type of person*), I want (*a goal*) so that (*a reason*)."
+"As a (*Web Designer*), I want (*to make a soundboard*) so that (*aspiring comedians can have a form of artificial reassurance when telling jokes*)."
 
 ## Feature Backlog (by Priority)
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-- [ ] Feature 1
+- [ ] Working Sounds
+- [ ] Multiple Buttons
+- [ ] Interactable images
+- [ ] A user-friendly UI
 
 <!-- This is a comment and will not appear in the rendered Markdown -->
   
